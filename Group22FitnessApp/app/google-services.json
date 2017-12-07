@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "7098828863",
+    "firebase_url": "https://seniorproject-7ac35.firebaseio.com",
+    "project_id": "seniorproject-7ac35",
+    "storage_bucket": "seniorproject-7ac35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7098828863:android:76aca7731d433a78",
+        "android_client_info": {
+          "package_name": "com.group22fitness.group22fitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7098828863-0vfgmotp7g7ubmktqeop0evn14kfkq26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeWORSSrr5yYWgWUs4nzKLQQ8aC4C4HEM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
